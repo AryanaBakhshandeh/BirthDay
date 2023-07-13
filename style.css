@@ -6,6 +6,7 @@ body {
 canvas{display:block}
 
 h1 {
+  padding-top: 100px;
   position: absolute;
   top: 40%;
   left: 50%;
